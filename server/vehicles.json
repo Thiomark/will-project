@@ -1,0 +1,13 @@
+{
+    "id":"35d92f26-9789-4567-b663-3e89472b7edc",
+    "name": "T-Man",
+    "vehicleNumber": 343432,
+    "registrationNumber": "TDFsd",
+    "weight": 1342,
+    "vehicleType": "Truck",
+    "engineSize": 341,
+    "odometerReading": 34,
+    "image": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=4&w=256&h=256&q=60",
+    "manufacture": "T-Man",
+    "description": "psam explicabo laborum architecto. Quaerat labore debitis reprehenderit ex voluptatum."
+}
